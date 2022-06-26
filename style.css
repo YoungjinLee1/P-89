@@ -1,0 +1,104 @@
+.login1 {
+  display: inline;
+  float: right;
+  padding-right: 22px;
+  padding-top: 100px;
+  color: white;
+}
+
+.login2 {
+  display: inline;
+  float: right;
+  padding-right: 22px;
+  padding-top: 100px;
+  color: white;
+}
+
+.page_heading {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 20px;
+  letter-spacing: 2.5px;
+}
+
+.login_b {
+  background-color: white;
+  color: blueviolet;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  position: absolute;
+  right: 300px;
+  top: 400px;
+}
+
+#output {
+  background: white;
+  border-radius: 10px;
+  border-top: 10px solid #AA4465;
+  padding: 10px;
+  float: none;
+  text-align: left;
+}
+
+.send {
+  background-color: white;
+  color: blueviolet;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.heading {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.label {
+  color: white;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 100px;
+}
+
+#player1_name {
+  color: white;
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-align: left;
+  float: none;
+}
+
+#player2_name {
+  color: white;
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-align: left;
+  float: none;
+}
+
+#player1_score {
+  color: white;
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-align: left;
+  float: none;
+}
+
+#player2_score {
+  color: white;
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-align: left;
+  float: none;
+}
